@@ -144,12 +144,10 @@ print("Predicted Iris Species:", iris.target_names[prediction])
 <img width="215" height="147" alt="image" src="https://github.com/user-attachments/assets/5f8c295d-a9da-4849-89e3-44b552d3dd40" />
 
 ## Confusion Matrix
-<img width="112" height="57" alt="image" src="https://github.com/user-attachments/assets/1c757ff1-9ca1-4ec2-808b-ddeea6445049" />
-
-
-
-
 <img width="472" height="392" alt="image" src="https://github.com/user-attachments/assets/492f5626-81f0-4afc-bcf1-90b7b284a8d0" />
+
+
+<img width="112" height="57" alt="image" src="https://github.com/user-attachments/assets/1c757ff1-9ca1-4ec2-808b-ddeea6445049" />
 
 ## Classification Report
 <img width="410" height="150" alt="image" src="https://github.com/user-attachments/assets/6fe47e57-6589-4f55-9e3b-6e96c3770fc8" />
