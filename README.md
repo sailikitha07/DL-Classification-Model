@@ -147,6 +147,9 @@ print("Predicted Iris Species:", iris.target_names[prediction])
 
 <img width="112" height="57" alt="image" src="https://github.com/user-attachments/assets/1c757ff1-9ca1-4ec2-808b-ddeea6445049" />
 
+
+
+
 <img width="472" height="392" alt="image" src="https://github.com/user-attachments/assets/492f5626-81f0-4afc-bcf1-90b7b284a8d0" />
 
 
